@@ -33,14 +33,8 @@ The application features a clean, user-friendly interface with:
 - **Local Storage API**: Data persistence
 ## 📸 Screenshots
 
-### Main Interface
-![Quote Generator Interface](images/screenshot.png)
+<img width="1919" height="1001" alt="Screenshot 2025-11-11 201436" src="https://github.com/user-attachments/assets/b5f14d87-93d0-41f9-afba-e3461fd37ef5" />
 
-### Generate Quote Feature
-![Generate Quote](images/generate-quote.png)
-
-### Add Quote Feature
-![Add Quote](images/add-quote.png)
 
 ## 💻 Installation & Usage
 
