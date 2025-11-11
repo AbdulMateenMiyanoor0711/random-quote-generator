@@ -16,15 +16,11 @@ A simple and elegant web application that allows users to generate random inspir
 - **Responsive Design**: Clean and modern UI with TechPathshalaa branding
 - **Input Validation**: Ensures both quote and author fields are filled before adding
 
-## 🚀 Live Demo
-
-[View Live Demo](https://abdulmateenmiyanoor0711.github.io/random-code-generator/)
 
 ## 📸 Screenshots
 
 ### Main Interface
 The application features a clean, user-friendly interface with:
-- Navigation bar with TechPathshalaa branding
 - Quote display area with elegant styling
 - Easy-to-use input fields for adding new quotes
 - Prominent action buttons
@@ -35,6 +31,16 @@ The application features a clean, user-friendly interface with:
 - **CSS3**: Styling and layout
 - **Vanilla JavaScript**: Logic and interactivity
 - **Local Storage API**: Data persistence
+## 📸 Screenshots
+
+### Main Interface
+![Quote Generator Interface](images/screenshot.png)
+
+### Generate Quote Feature
+![Generate Quote](images/generate-quote.png)
+
+### Add Quote Feature
+![Add Quote](images/add-quote.png)
 
 ## 💻 Installation & Usage
 
