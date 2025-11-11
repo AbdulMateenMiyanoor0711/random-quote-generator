@@ -41,3 +41,16 @@ The application features a clean, user-friendly interface with:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AbdulMateenMiyanoor0711/random-code-generator.git
+
+   
+   <div align="center">
+
+⭐ If you found this helpful, please give it a star! ⭐
+
+![GitHub stars](https://img.shields.io/github/stars/AbdulMateenMiyanoor0711/my-resume?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AbdulMateenMiyanoor0711/my-resume?style=social)
+
+Made with ❤️ by Abdul Mateen Miyanoor
+
+</div>
+
