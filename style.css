@@ -1,0 +1,141 @@
+/* Navbar */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: Arial, sans-serif;
+}
+
+#navbar {
+    background-color: #0C244A;
+    height: 70px;
+    width: -webkit-fill-available;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 90px;
+    padding-left: 90px;
+}
+
+#allquotes {
+    background-color: #F3BD00;
+    border-radius: 10px;
+    height: 51px;
+    width: 156px;
+}
+
+/* Quote Body */
+#mainbody {
+    height: 817px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header {
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+/* Quote Body */
+#quotebody {
+    height: 250px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    border: outset;
+}
+
+#innquotebody {
+    height: 200px;
+    width: 950px;
+    background-color: #F5F5F5;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+}
+#quote{
+font-size: xx-large;    
+padding-top: 20px;
+}
+#author{
+    align-self: flex-end;
+    padding-top:30px ;
+    padding-right: 30px;
+    
+}
+
+/* Generatebutton */
+
+#Generatebutton {
+    background-color: #F3BD00;
+    width: 1000px;
+    height: 51px;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+/* new Quote */
+#newquote {
+    display: flex;
+    flex-direction: column;
+}
+
+#inputquote {
+    width: 1000px;
+    height: 51px;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+.fontsize {
+    font-size: x-large;
+}
+
+#lowerbody {
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    justify-content: space-between;
+}
+
+#lowerright {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+#lowerleft {
+    display: flex;
+    place-self: flex-end;
+}
+
+#addname {
+    height: 51px;
+    width: 480px;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+#addbutton {
+    background-color: #F3BD00;
+    border-radius: 10px;
+    font-size: x-large;
+    height: 51px;
+    width: 480px;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <div id="techlogo">
+        <img src="techpathshalaa logoo.svg" height="24px" width="200px" />
+      </div>
+      <button id="allquotes" onclick="showquotes()">All Quotes</button>
+    </nav>
+    <main id="mainbody">
+      <header>Let’s Start Generating Quotes</header>
+      <div id="quotebody">
+        <div id="innquotebody">
+          <div id="quote">“Stay hungry, stay foolish.”</div>
+          <div id="author">-Steve Jobs</div>
+        </div>
+      </div>
+      <button id="Generatebutton"  onclick="generatequote()"> Generate Quote</button>
+      <div id="newquote">
+        <div class="fontsize">New Quote</div>
+        <input type="text" placeholder="Type New Quote" id="inputquote">
+      </div>
+      <div id="lowerbody">
+      <div id="lowerright">
+        <div class="fontsize">Name</div>
+        <input type="text" placeholder="Name" id="addname" >
+        </div>
+        <div id="lowerleft">
+        <button id="addbutton" onclick="addQuote()">Add Quote</button>
+      </div>
+    </div>
+    </main>
+  </body>
+  <script src="script.js"></script>
+</html>
